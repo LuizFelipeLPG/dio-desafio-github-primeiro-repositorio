@@ -1,0 +1,15 @@
+comandos aprendidos
+
+git clone [link do arquivo do github https] (permite trazer o aquivo para o sistema local)
+
+git status (ve o status do arquivo)
+
+echo "[o texto que deseja inserir no arquivo txt]" > [nome que deseja dar ao arquivo txt] (esse comando cria um arquivo txt)
+
+gnome-text-editor (abre o arquivo do diretório no editor de texto)
+
+git add . (cria um novo controle de versão do projeto localmente)
+
+git commit -m "[comentario que deseja adicionar ao commit]" (cria um commit)
+
+git origin main (envia a atualização do projeto para o github)
